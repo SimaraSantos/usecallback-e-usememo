@@ -1,5 +1,3 @@
-# 🧪 React Performance Lab: useCallback & useMemo
-
 Este repositório é um laboratório prático focado exclusivamente no estudo, compreensão e aplicação dos Hooks de otimização de performance do React (`useCallback` e `useMemo`), utilizando **React**, **TypeScript** e **Vite**.
 
 O objetivo principal é entender na prática como evitar re-renderizações desnecessárias e como impedir que cálculos pesados reduzam a fluidez da interface.
