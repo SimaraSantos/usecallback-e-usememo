@@ -54,7 +54,7 @@ export default App;
 Clone o repositório:
 
 Bash
-git clone [https://github.com/SimaraSantos/usereducer-e-callback.git](https://github.com/SimaraSantos/usereducer-e-callback.git)
+
 
 Bash
 cd usereducer-e-callback
